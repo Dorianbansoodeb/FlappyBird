@@ -58,8 +58,6 @@ Installation
 
 Clone the repository:
 
-git clone <repository_url>
-
 Navigate to the project directory:
 
 cd flappybird-game
